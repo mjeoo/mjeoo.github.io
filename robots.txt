@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mjeoo.github.io/GFb/sitemap.GFb.gz
