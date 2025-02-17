@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mjeoo.csgad.com/VZN/sitemap.xml.gz
